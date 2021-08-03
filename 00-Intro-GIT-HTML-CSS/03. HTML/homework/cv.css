@@ -1,0 +1,15 @@
+h1 {
+    color:black;
+    font-style: oblique;
+}
+
+.subtitulos {
+    color: grey;
+    font-style: italic;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+}
