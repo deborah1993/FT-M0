@@ -1,0 +1,21 @@
+h1 {
+    color:lightsalmon;
+}
+
+img {
+    width: 400px;
+    height: 600px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: blanchedalmond;
+    padding: 50px;
+    border: 5px lightsalmon dotted;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
